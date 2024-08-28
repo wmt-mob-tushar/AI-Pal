@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = 'AIzaSyAanYQ2CpbLcVbKyqVo9wgGgn2tNgyWqzY';
+const GEMINI_API_KEY = '******';
 
 export {
     GEMINI_API_KEY
