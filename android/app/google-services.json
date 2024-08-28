@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671634625644",
+    "firebase_url": "https://chatgpt-clone-4634e-default-rtdb.firebaseio.com",
+    "project_id": "chatgpt-clone-4634e",
+    "storage_bucket": "chatgpt-clone-4634e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671634625644:android:23f91c37eebe123ff0f449",
+        "android_client_info": {
+          "package_name": "com.wmt.chatgptclone.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671634625644-8lvescimg1fj7rvr7sl0a1lp0tf9iubt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wmt.chatgptclone.android",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "671634625644-rcqgsp2847njr2fra4jhg72jtkg1i2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzt2Bcr7b-K-BWcBQ7rsGI_8MY7l4cEjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671634625644-rcqgsp2847njr2fra4jhg72jtkg1i2gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+// Replace this file with your settings.json
+// First create folder .vscode (folder name should be same like this)
+// Create new file settings.json (File name should be same like this)
+{
+  // START: Settings for Eslint and Prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  // set default for all rules
+  "eslint.rules.customizations": [
+    {
+      "rule": "*",
+      "severity": "default"
+    }
+  ],
+  // START: Settings for Prettier
+  "prettier.useTabs": true,
+  "prettier.jsxSingleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.arrowParens": "avoid",
+  "prettier.singleQuote": false,
+  "cSpell.words": ["setlatestthread"]
+}
